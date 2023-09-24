@@ -1,11 +1,11 @@
 {
-    "name": "autoclub",
-    "short_name": "autoclub",
+    "name": "AutoClub - Islamabad",
+    "short_name": "AutoClub -  Islamabad",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "Discover excellence in auto care with our meticulously crafted Flutter app, showcasing our dedication to quality service and exceptional user experience.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
